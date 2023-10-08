@@ -76,3 +76,4 @@ Trix	G	110	1	1	140	0	13	12	25	25
 Wheat_Chex	R	100	3	1	230	3	17	3	115	25
 Wheaties	G	100	3	1	200	3	17	3	110	25
 Wheaties_Honey_Gold	G	110	2	1	200	1	16	8	60	25
+russe
